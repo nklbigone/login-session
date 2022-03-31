@@ -1,0 +1,10 @@
+en:
+  activerecord:
+    errors:
+      models:
+        task:
+          attributes:
+            title:
+              blank: "Please enter a title"
+            content:
+              blank: "Please enter content"
